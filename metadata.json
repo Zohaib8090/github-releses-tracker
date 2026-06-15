@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Release Downloads Dashboard",
+  "description": "A clean dashboard to track, visualize, and analyze download counts and historical version metrics for GitHub releases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
